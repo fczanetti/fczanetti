@@ -43,7 +43,7 @@ Please, let me know if you have any questions. You can send me an email or a mes
 
 ## Some of my repositories
 
-- [Work at Olist]() - API for storing books and authors data
+- [Work at Olist](https://github.com/fczanetti/work-at-olist) - API for storing books and authors data
 - [Work at Codevance](https://github.com/fczanetti/work-at-codevance) - System for payments management
 - [McField's](https://github.com/fczanetti/mcfields/) - Website for agricultural contents
 
