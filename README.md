@@ -26,6 +26,7 @@ Please, let me know if you have any questions. You can send me an email or a mes
 
 ![Static Badge](https://img.shields.io/badge/Pipenv-blue)
 
+![Static Badge](https://img.shields.io/badge/Linux-%23e95420)
 ![Static Badge](https://img.shields.io/badge/Django-%230c3c26)
 ![Static Badge](https://img.shields.io/badge/Django%20Ninja-%234cae4f)
 
