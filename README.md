@@ -29,6 +29,7 @@ Please, let me know if you have any questions. You can send me an email or a mes
 ![Static Badge](https://img.shields.io/badge/Linux-%23e95420)
 ![Static Badge](https://img.shields.io/badge/Django-%230c3c26)
 ![Static Badge](https://img.shields.io/badge/Django%20Ninja-%234cae4f)
+![Static Badge](https://img.shields.io/badge/Django%20REST%20framework-%23A30000)
 
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791)
 ![Static Badge](https://img.shields.io/badge/Docker-%231d63ed)
@@ -44,9 +45,10 @@ Please, let me know if you have any questions. You can send me an email or a mes
 
 ## Some of my repositories
 
-- [Work at Olist](https://github.com/fczanetti/work-at-olist) - API for storing books and authors data
-- [Work at Codevance](https://github.com/fczanetti/work-at-codevance) - System for payments management
-- [McField's](https://github.com/fczanetti/mcfields/) - Website for agricultural contents
+- [Loan API](https://github.com/fczanetti/loan_api) - REST API to manage loans from banks to clients (**In construction**);
+- [Work at Olist](https://github.com/fczanetti/work-at-olist) - API for storing books and authors data;
+- [Work at Codevance](https://github.com/fczanetti/work-at-codevance) - System for payments management;
+- [McField's](https://github.com/fczanetti/mcfields/) - Website for agricultural contents.
 
 
 <!--
