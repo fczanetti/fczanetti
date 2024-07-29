@@ -48,6 +48,7 @@ Please, let me know if you have any questions. You can send me an email or a mes
 - [Loan API](https://github.com/fczanetti/loan_api) - REST API to manage loans from banks to clients;
 - [Work at Olist](https://github.com/fczanetti/work-at-olist) - API for storing books and authors data;
 - [Work at Codevance](https://github.com/fczanetti/work-at-codevance) - System for payments management;
+- [Work at Codevance - API](https://github.com/fczanetti/work-at-codevance-api) - System for payments management (Back-end, REST API format)
 - [McField's](https://github.com/fczanetti/mcfields/) - Website for agricultural contents.
 
 
