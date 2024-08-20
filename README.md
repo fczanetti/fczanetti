@@ -3,8 +3,7 @@
 In September 2023 I decided to start a new career as a software developer, and since then I have been dedicating most of my time to studies. Here you can check some of the main languages and tecnologies I've worked with so far, and also some of my projects. 
 
 
-- 📖 I'm currently learning how to deploy an application using Docker;
-- 🔍 I'm currently looking for my first job as a Software Developer;
+- 💼 I'm currently working as a Junior Software Developer at Codevance;
 - 💻 I like developing projects with Python and it's frameworks (specially Django).
 
 Please, let me know if you have any questions. You can send me an email or a message on LinkedIn, it'll be nice to have a chat.
